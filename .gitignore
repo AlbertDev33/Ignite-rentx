@@ -5,3 +5,4 @@ coverage
 ormconfig.json
 tmp/*
 !tmp/.gitkeep
+.vscode
